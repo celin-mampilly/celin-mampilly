@@ -53,30 +53,31 @@ Currently interested in
 
 ## Featured Projects
 
-### 🚢 Water Metro Live Tracking
+### Cue — AI Public Speaking Simulator
+Browser-based AI public speaking simulator that combines speech recognition, computer vision, and behavioral analytics to provide real-time coaching on filler-word usage, eye contact, speaking pace, and confidence.
 
-Production-ready GPS tracking platform developed during my internship at Kochi Water Metro.
-
-**Tech**
-React • Flask • Leaflet • GPS APIs
+**Tech:** JavaScript • Web Speech API • MediaRecorder • face-api.js • HTML • CSS
 
 ---
 
-### 🌦 NASA ClimateCast
+### Water Metro Live Tracking
+Real-time GPS fleet tracking platform developed during my internship at Kochi Water Metro, enabling live vessel monitoring with an interactive map and location updates.
 
-Location-specific climate forecasting platform that analyzes historical weather patterns and provides climate insights.
-
----
-
-### 🤖 Government Document Assistant
-
-AI-powered assistant that automates government document workflows using OCR and agent-based automation.
+**Tech:** React • Flask • Leaflet • GPS APIs
 
 ---
 
-### 💻 AI Teaching Chatbot
+### NASA ClimateCast
+AI-powered climate analytics platform that delivers location-specific historical weather trends and climate insights through an interactive web application.
 
-Interactive chatbot that helps students learn concepts through conversational AI.
+**Tech:** Python • Flask • React • Machine Learning
+
+---
+
+### Government Document Assistant
+AI-powered document automation platform that streamlines government application workflows using OCR, intelligent agents, and browser automation.
+
+**Tech:** JavaScript • OCR • Puppeteer • AI Agents
 
 ---
 
