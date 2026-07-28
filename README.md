@@ -89,6 +89,7 @@ AI-powered climate analytics platform that delivers location-specific historical
 AI-powered document automation system that streamlines government application workflows using OCR, browser automation, and intelligent agents.
 
 **Tech:** JavaScript • OCR • Puppeteer • AI Agents
+
 ---
 
 ## Connect with Me
