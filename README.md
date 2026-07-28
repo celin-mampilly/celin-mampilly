@@ -62,18 +62,17 @@ Currently interested in
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
 ## Featured Projects
 
 ### Cue — AI Public Speaking Simulator
-Browser-based AI public speaking simulator that combines speech recognition, computer vision, and behavioral analytics to provide real-time coaching on filler-word usage, eye contact, speaking pace, and confidence.
+Browser-based AI public speaking simulator that combines speech recognition, computer vision, and behavioral analytics to provide real-time feedback on filler words, eye contact, speaking pace, and confidence.
 
 **Tech:** JavaScript • Web Speech API • MediaRecorder • face-api.js • HTML • CSS
 
 ---
 
 ### Water Metro Live Tracking
-Real-time GPS fleet tracking platform developed during my internship at Kochi Water Metro, enabling live vessel monitoring with an interactive map and location updates.
+Real-time GPS fleet tracking platform developed during my internship at Kochi Water Metro for monitoring vessel locations on an interactive map.
 
 **Tech:** React • Flask • Leaflet • GPS APIs
 
@@ -87,15 +86,13 @@ AI-powered climate analytics platform that delivers location-specific historical
 ---
 
 ### Government Document Assistant
-AI-powered document automation platform that streamlines government application workflows using OCR, intelligent agents, and browser automation.
+AI-powered document automation system that streamlines government application workflows using OCR, browser automation, and intelligent agents.
 
 **Tech:** JavaScript • OCR • Puppeteer • AI Agents
-
 ---
 
 ## Connect with Me
 
 LinkedIn: https://linkedin.com/in/celin-mampilly
 
-Email:
-celinmampilly@gmail.com
+Email: celinmampilly@gmail.com
